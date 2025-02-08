@@ -32,3 +32,14 @@ for (let var = 0; var < 10; var ++) {
     console.log(var);
 }
 ```
+
+## День 6
+
+Функцию я созда так:
+
+```javascript
+function funcName(param) {
+    ...
+}
+funcName(new_maram);
+```
