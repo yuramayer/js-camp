@@ -35,7 +35,7 @@ for (let var = 0; var < 10; var ++) {
 
 ## День 6
 
-Функцию я созда так:
+Функцию я создаю так:
 
 ```javascript
 function funcName(param) {
