@@ -43,3 +43,7 @@ function funcName(param) {
 }
 funcName(new_maram);
 ```
+
+## День 7
+
+Метод строки `repeat(n)` позволяет повторить символ $n$ раз. Аналог `string * n` в python 
