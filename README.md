@@ -4,6 +4,12 @@
 
 ### Текущий прогресс JS Free Code Camp - [ссылка](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-introductory-javascript-by-building-a-pyramid-generator/step-18)
 
+# Цели
+
+- [ ] Пройти курс по базе Java Script
+- [ ] Изучить синтаксис JS
+- [ ] Создать свой app на JS
+
 ## День 1 
 Я изучил команду `console.log()`. Она выводит результат в консольку. Переменные я могу создать с помощью кодового слова `var`
 
@@ -74,3 +80,7 @@ JavaScript поддерживает два параметра сравнения
 "0" == 0    // true
 ```
 2. `===`Сравнивает значения и их типы без приведения типов. Поэтому приколов меньше, сравнение строже
+
+## День 9 
+
+
